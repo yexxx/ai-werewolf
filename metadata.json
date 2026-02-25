@@ -1,0 +1,5 @@
+{
+  "name": "AI Werewolf",
+  "description": "A 12-player Werewolf game where you can play with AI agents powered by any OpenAI-compatible API.",
+  "requestFramePermissions": []
+}
